@@ -291,7 +291,7 @@ tracing-opentelemetry = { version = "0.19.0", default-features = false }
 tracing-subscriber = { version = "0.3", default-features = false }
 trycmd = { version = "0.14", default-features = false }
 uhttp_sse = { version = "0.5.1" }
-url = { version = "2.3", default-features = false }
+url = { version = "2.3" }
 uuid = { version = "1.1", default-features = false }
 wasm-encoder = { version = "0.35", default-features = false }
 webpki = { version = "0.22.2" }
